@@ -1,0 +1,107 @@
+{
+  "pets": [
+    {
+      "nome": "Batman",
+      "tipo": "cão",
+      "raca": "labrador",
+      "idade": 5,
+      "genero": "M",
+      "vacinado": true,
+      "servicos": [
+        {
+          "nome": "Aparar unhas",
+          "data": "31-03-2021"
+        },
+        {
+          "nome": "Aparar unhas",
+          "data": "31-03-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        }
+      ]
+    },
+    {
+      "nome": "Costelinha",
+      "tipo": "cão",
+      "raca": "vira-lata",
+      "idade": 10,
+      "genero": "M",
+      "vacinado": true,
+      "servicos": [
+        {
+          "nome": "Aparar unhas",
+          "data": "31-03-2021"
+        },
+        {
+          "nome": "Aparar unhas",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "Aparar unhas",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "Aparar unhas",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "Aparar unhas",
+          "data": "05-04-2021"
+        }
+      ]
+    },
+    {
+      "nome": "Scooby Doo",
+      "tipo": "cão",
+      "raca": "Dogue Alemão",
+      "idade": 51,
+      "genero": "M",
+      "vacinado": false,
+      "servicos": [
+        {
+          "nome": "tosa",
+          "data": "31-03-2021"
+        }
+      ]
+    },
+    {
+      "nome": "Tom",
+      "tipo": "gato",
+      "raca": "poodle",
+      "idade": 5,
+      "genero": "M",
+      "vacinado": false,
+      "servicos": [
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        }
+      ]
+    },
+    {
+      "nome": "Ada",
+      "tipo": "iguana",
+      "raca": "albina",
+      "idade": 5,
+      "genero": "F",
+      "vacinado": true,
+      "servicos": [
+        {
+          "nome": "banho",
+          "data": "31-03-2021"
+        }
+      ]
+    },
+    {
+      "nome": "Rex2",
+      "idade": 1,
+      "raca": "Maltes",
+      "tipo": "cachorro",
+      "vacinado": false,
+      "genero": "M",
+      "servicos": []
+    }
+  ]
+}
